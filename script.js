@@ -1,5 +1,5 @@
-const span1 = document.querySelector('h1 span') ;
-const span2 = document.querySelector('h2 span') ;
+const span1 = document.querySelector('h2 span') ;
+const span2 = document.querySelector('h3 span') ;
 
 const wordsList1 = ['Developer' , 'Coder' , 'ECE Student'] ;
 const wordsList2 = ['Engineer' , 'Coder' , 'Student'] ;
